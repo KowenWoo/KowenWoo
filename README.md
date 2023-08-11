@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KowenWoo
 - 👀 I’m interested in software development and 3d modeling
-- 🌱 I’m currently learning python and how to use Git through bitbucket
+- 🌱 I’m currently learning python and computer science basics
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me kowenwoo@gmail.com
 
