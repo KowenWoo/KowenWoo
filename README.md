@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KowenWoo
-- 👀 I’m interested in software development and 3d modeling
-- 🌱 I’m currently learning python and computer science basics
-- 💞️ I’m looking to collaborate on anything and everything
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning front end design and machine learning basics
+- 💞️ I’m looking to collaborate on Machine Learning and AI projects
 - 📫 How to reach me kowenwoo@gmail.com
 
 <!---
